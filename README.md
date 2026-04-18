@@ -1,3 +1,4 @@
+(note: this was made during my programming courses at Rocket Tech School.)
 # AI-bot
 AI-bot is a program made in Python, where you can do a few things with them.
 ## Features:
